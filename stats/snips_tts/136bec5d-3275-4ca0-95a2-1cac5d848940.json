@@ -1,0 +1,1 @@
+{"clean_f1": 0.9770805239677429, "asr_f1": 0.8124298453330994, "use_clean": true, "use_n_best": false, "use_kd": false, "use_rule_corruption": false, "alpha": 1.0, "beta": 1.0, "no_clean_nbest": false}

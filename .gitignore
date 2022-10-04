@@ -1,0 +1,10 @@
+generate_data/LibriSpeech/
+generate_data/dev-other.tar.gz*
+generate_data/dev-clean.tar.gz*
+generate_data/test-other.tar.gz*
+generate_data/test-clean.tar.gz*
+__pycache__/
+lightning_logs/
+nohup.out
+.ipynb_checkpoints/
+final
